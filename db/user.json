@@ -1,25 +1,25 @@
-{
-    "users": [
-    {    "id": 1,
-        "userName": "Alex",
+[
+    {   "id": 1,
+        "password": "Alex",
         "login": "alex"
     },
 
     {
         "id": 2,
-        "userName": "Max",
+        "password": "Max",
         "login": "max"
     },
 
     {
         "id": 3,
-        "userName": "Pete",
+        "password": "Pete",
         "login": "pete"
     },
 
     {
         "id": 4,
-        "userName": "Ben",
+        "password": "Ben",
         "login": "ben"
-    }]
-}
+    }
+]
+
