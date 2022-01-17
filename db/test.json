@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "61e1850792d5f8e412bd3a61"
+  },
+  "id": 1,
+  "password": "Alex",
+  "login": "alex",
+  "age": 22
+},{
+  "_id": {
+    "$oid": "61e1850792d5f8e412bd3a62"
+  },
+  "id": 2,
+  "password": "Max",
+  "login": "max",
+  "age": 45
+},{
+  "_id": {
+    "$oid": "61e1850792d5f8e412bd3a63"
+  },
+  "id": 3,
+  "password": "Pete",
+  "login": "pete",
+  "age": 31
+},{
+  "_id": {
+    "$oid": "61e1850792d5f8e412bd3a64"
+  },
+  "id": 4,
+  "password": "Ben",
+  "login": "ben",
+  "age": 25
+}]
